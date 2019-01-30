@@ -1,0 +1,178 @@
+head{
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+body{
+	background-color: #c0c0c0;
+	max-width: 50%;
+	margin: auto;
+}
+div{
+	border: 1px;
+	padding: 5px 15px;
+}
+#full {
+	background-color: white;
+	padding-right: 7px;
+    padding-left: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+#ramka {
+	padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: 3px solid silver;
+}
+#main {
+	background: #ffffff ;
+	display: flex;
+	padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#header {
+	background-color: 	#3d4f5b;
+	text-align: center;
+	min-height: 50px;
+	line-height: 50px;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	color: white;
+}
+
+#sidebar {
+	background: linear-gradient(to right, #424242, #6d6d6d);
+	margin-right: 0px;
+	width: 30%;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	color: white;
+
+}
+
+#picture{
+		width: 100%;
+		height: 100px;
+		padding-bottom: 0px;
+    	padding-top: 0px;
+    	padding-left: 0px;
+    	padding-right: 0px;
+    	border: 2px solid silver;
+		background-image: url(photo.jpg);
+		border-radius:40%;
+		margin:auto;
+	}
+
+#name a{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size:1em;}
+#name2 a{
+	text-decoration-line: underline;
+	text-decoration-color: yellow;
+	font-size:1em;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	margin-top: 0px; margin-bottom: 0px;
+	}
+#like{
+
+}
+#moloko{
+	max-height: 7px;
+	max-width: 40%;
+	margin-top: 5px;
+    margin-bottom: 5px;
+	text-align: left;
+	font-size: 8px;
+	border-radius:15px;
+	background-color: #ffa500;
+		}
+#sport{
+	max-height: 7px;
+	max-width: 30%;
+	text-align: left;
+	font-size: 8px;
+	border-radius:15px;
+	background-color: #0174df;
+	}
+#games{
+	max-height: 7px;
+	max-width: 60%;
+	margin-top: 5px;
+	text-align: left;
+	font-size: 8px;
+	border-radius:15px;
+	background-color: #008000;
+	}
+#contacts{
+
+}
+#birth {
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	color: #084b8a;
+	width: 100%;
+	padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px
+}
+#date {
+	font-size: 20px;
+	padding-top: 0px;
+    padding-bottom: 0px;
+    }
+#data {
+	padding-top: 0px;
+    padding-bottom: 0px;
+}
+#misto {
+	padding-top: 0px;
+    padding-bottom: 0px;
+}
+#misce {
+	font-size: 20px;
+	padding-top: 0px;
+    padding-bottom: 0px;
+}
+#soft dl{
+	padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+    
+#about dl{
+	padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#polosa {
+	width: 100%;
+	height: 2px;
+	background-color: #0080ff;
+	padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#liniya{
+	width: 100%;
+	height: 2px;
+	background-color: #0080ff;
+	padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#line{
+	width: 100%;
+	height: 2px;
+	background-color: #0080ff;
+	padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
